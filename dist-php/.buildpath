@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="config"/>
+	<buildpathentry kind="src" path="inc"/>
+	<buildpathentry kind="src" path="langselect"/>
+	<buildpathentry kind="src" path="theme-base"/>
+	<buildpathentry kind="src" path="theme-gcwu-fegc"/>
+	<buildpathentry kind="src" path="theme-gcwu-intranet"/>
+	<buildpathentry kind="src" path="theme-wet-boew"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
